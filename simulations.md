@@ -67,9 +67,9 @@ These simulations have low priority.
 | Simulation name | Description |
 | --- | --- |
 | CREME_BKzeroQflux | Same as CREME_BK with a zero Q-flux ocean. |
-| CREME_woSEAICE | Same as CREME_BK without sea ice. |
-| CREME_woTOPO | Same as CREME_BK with flat topography. |
-| CREME_woSNOW | Same as CREME_BK without snow. |
-| CREME_woGHGs | Same as CREME_BK with zero CO<sub>2</sub>. |
-| CREME_wOTHERSTAR | Same as CREME_BK with a different star (document which and include it in the run name). |
-| CREME_wOTHERORBIT | Same as CREME_BK with a different orbit (document which and include it in the run name). |
+| CREME_BKwoSEAICE | Same as CREME_BK without sea ice. |
+| CREME_BKwoTOPO | Same as CREME_BK with flat topography. |
+| CREME_BKwoSNOW | Same as CREME_BK without snow. |
+| CREME_BKwoGHGs | Same as CREME_BK with zero CO<sub>2</sub>. |
+| CREME_BKwOTHERSTAR | Same as CREME_BK with a different star (document which and include it in the run name). |
+| CREME_BKwOTHERORBIT | Same as CREME_BK with a different orbit (document which and include it in the run name). |
