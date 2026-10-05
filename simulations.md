@@ -2,7 +2,7 @@
 
 Below is a detailed description of the requested configuration of all simulations as extracted from the protocol paper. The purpose of this page is to have everything available in one page, and enriched with answers from potential questions as each model is being set up. Modelers are requested to explicitly document what they have done in the [models page](models.md), even if this repeats information from here. When Earth is mentioned, it means conditions as close as possible to preindustrial, defined as the year 1850. The duration of the spinup will be model-dependent and should be documented, and the equilibrated simulation(s) should be 150 years, unless the 4xCO2 simulation comes to a complete equilibrium earlier. 
 
-## Benchmark (CREME_BM)
+## Benchmark (CREME_BK)
 
 This is the entry ticket to CREME, and need to be performed by all models. 
 
